@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(10, 0, 56, 0.822);
+}
+
+.left{
+    position:fixed;
+    height: 500px;
+    padding: 5%;
+    align-content: center;
+    color: lavender;
+    float: left;
+    border: rgb(252, 248, 248);
+    overflow: hidden;
+}
+
+.right{
+    color: black;
+    float: right;
+    width: 65%;
+    border-style:solid ;
+    background-color: beige;  
+}
+
+.memeView{
+    align-items: center;
+    background-color: beige;
+   
+}
+
+.meme{
+    padding-left: 30%;
+    border-bottom-style:solid;
+}
