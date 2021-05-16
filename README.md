@@ -1,1 +1,1 @@
-# xmeme
+Meme Stream Application using Django
